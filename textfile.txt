@@ -1,4 +1,5 @@
-Demo of git .
-completed.
-Demo for github.
-share file on Github.
+public class play
+    public static void main string
+
+system.out.print "hello world"
+
