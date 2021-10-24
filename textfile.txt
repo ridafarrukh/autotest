@@ -1,1 +1,1 @@
-done  my all  commit
+Demo of git .
